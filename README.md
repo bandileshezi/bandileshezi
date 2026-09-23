@@ -26,19 +26,7 @@
 
 </div>
 
----
 
-## 👨🏽‍💻 About Me
-
-I am a **Computer Science Honours student** with an interest in **Artificial Intelligence, Data Science, Machine Learning, and Full-Stack Development**.
-
-I enjoy building practical software that addresses real-world problems — from intelligent educational assistants to AI-powered search applications and full-stack platforms.
-
-My approach is simple:
-
-> **Understand the problem → design a practical solution → build it → test it → improve it.**
-
-:::writing{variant="document" id="58321" title="Updated About Me Section"}
 ## 👨🏽‍💻 About Me
 
 I am a **Computer Science Honours student** with an interest in **Artificial Intelligence, Data Science, Machine Learning, and Full-Stack Development**.
@@ -60,19 +48,7 @@ My approach is simple:
 - 🚀 Goal: **Build technology that solves real-world problems**
 :::
 
-### What to do on GitHub
 
-1. Open `bandileshezi/README.md`.
-2. Click the **✏️ Edit** button.
-3. Find the heading:
-   **`## 👨🏽‍💻 About Me`**
-4. Delete everything from that heading **up to the `---` before `## 🛠️ Technologies & Tools`**.
-5. Paste the replacement above.
-6. Click **Commit changes**.
-
-After that, your profile will **not show `bandile = { ... }` anymore**. It will show a professional About Me + Quick Facts section instead.
-
----
 
 ## 🛠️ Technologies & Tools
 
