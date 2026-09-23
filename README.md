@@ -1,59 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Bandile%20Sipho%20Shezi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Bandile%20Sipho%20Shezi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Computer+Science+Honours+Student;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Technology+That+Solves+Real-World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Honours+Student;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer;Building+Technology+That+Solves+Real+Problems;Python+%7C+JavaScript+%7C+Java+%7C+SQL" />
 
 <br>
 
 <a href="https://github.com/bandileshezi">
-<img src="https://img.shields.io/badge/GITHUB-bandileshezi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-bandileshezi-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/bandile-sipho-shezi">
-<img src="https://img.shields.io/badge/LINKEDIN-Bandile%20Sipho%20Shezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Bandile%20Sipho%20Shezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:bandiledebandy@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-bandiledebandy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bandileshezi&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=bandileshezi&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 💻 Computer Science Student → AI & Full-Stack Developer
+## 👨🏽‍💻 About Me
 
-I am a **Computer Science Honours student** from **KwaZulu-Natal, South Africa**, with a strong interest in Artificial Intelligence, Data Science, Machine Learning and Full-Stack Development.
+I am a **Computer Science Honours student** with an interest in **Artificial Intelligence, Data Science, Machine Learning, and Full-Stack Development**.
 
-I enjoy turning real-world problems into practical software solutions.
+I enjoy building practical software that addresses real-world problems — from intelligent educational assistants to AI-powered search applications and full-stack community platforms.
 
-From intelligent educational systems to AI-powered image search and full-stack applications, my focus is on **learning by building**.
+My approach is simple:
 
-I am continuously developing my skills across software engineering, machine learning, cloud technologies and intelligent systems.
+> **Understand the problem → design a practical solution → build it → test it → improve it.**
 
 ```python
 bandile = {
     "name": "Bandile Sipho Shezi",
     "education": "BSc Honours Computer Science",
     "location": "KwaZulu-Natal, South Africa 🇿🇦",
-
     "focus": [
         "Artificial Intelligence",
         "Data Science",
         "Machine Learning",
         "Full-Stack Development"
     ],
-
     "languages": [
         "Python",
         "Java",
         "JavaScript",
         "SQL"
     ],
-
     "frameworks": [
         "Django",
         "React",
@@ -61,12 +60,188 @@ bandile = {
         "Node.js",
         "Express.js"
     ],
-
     "currently_learning": [
         "Docker",
         "AWS",
         "LangChain"
     ],
-
     "goal": "Build technology that solves real-world problems"
 }
+```
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,fastapi,nodejs,express,pytorch,tensorflow" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postgresql,sqlite,aws" />
+</p>
+
+### AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+* Machine Learning
+* Explainable AI (XAI)
+* Data Science
+* Natural Language Processing
+* Computer Vision
+* AI-powered applications
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 UNIZULU Study Assistant
+
+An intelligent qualification recommendation and study assistant designed for students at the University of Zululand.
+
+**Features:**
+
+* Qualification recommendations
+* APS-based qualification matching
+* English and isiZulu support
+* Voice input
+* Question and answer functionality
+* 145 UNIZULU qualifications
+
+**Technologies:** `Python` `Django` `JavaScript` `JSON` `AI`
+
+---
+
+### 🐾 Animal Image Search
+
+An AI-powered image search application that allows users to search for animal images using visual similarity.
+
+**Features:**
+
+* Image embedding
+* Visual similarity search
+* AI-powered image retrieval
+* Web-based interface
+
+**Technologies:** `Python` `React` `FastAPI` `OpenAI CLIP`
+
+---
+
+### 🌍 Community Health Reporter
+
+A web application designed to help communities report and manage local health-related information.
+
+**Features:**
+
+* Community reporting
+* Data management
+* Web-based interface
+* Backend API
+
+**Technologies:** `Python` `Django` `PostgreSQL` `JavaScript`
+
+---
+
+## 🔬 Research
+
+### Explainable Machine Learning for Identifying At-Risk Students Using Learning Analytics Data
+
+My current research focuses on using **Machine Learning and Explainable AI** to identify students who may be at academic risk using learning analytics data.
+
+The goal is not only to make predictions, but also to understand **why** a model identifies a student as being at risk.
+
+Areas of interest include:
+
+* Machine Learning
+* Explainable AI
+* Learning Analytics
+* Student Engagement
+* Early-Warning Systems
+* SHAP
+* LIME
+
+---
+
+## 📚 Currently Learning
+
+```text
+Docker
+AWS
+LangChain
+Advanced Machine Learning
+Explainable AI
+Cloud Computing
+```
+
+---
+
+## 🎯 What I Am Working Towards
+
+I am developing my skills toward a career in **AI Engineering, Data Science, and Software Development**.
+
+I am particularly interested in building systems that combine:
+
+**Software Engineering + Artificial Intelligence + Data**
+
+to create practical solutions for real-world problems.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bandileshezi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bandileshezi&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandileshezi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/bandileshezi">
+<img src="https://img.shields.io/badge/GitHub-bandileshezi-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/bandile-sipho-shezi">
+<img src="https://img.shields.io/badge/LinkedIn-Bandile%20Sipho%20Shezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bandiledebandy@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building technology that solves real-world problems.
+
+**Computer Science Honours • AI • Data Science • Full-Stack Development**
+
+</div>
